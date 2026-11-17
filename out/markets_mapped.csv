@@ -1,0 +1,71 @@
+state,district,market,lat,lon,state_code,district_code,sub_district_code,mapping_method,needs_review
+Maharashtra,Nashik,Lasalgaon,20.1477,74.2263,27,317,,district_name_match,yes
+Maharashtra,Nashik,Pimpalgaon,20.1691,73.9875,27,317,,district_name_match,yes
+Maharashtra,Nashik,Yeola,20.0435,74.4878,27,317,2397,name_match_taluka,no
+Maharashtra,Nashik,Sinnar,19.8459,73.9984,27,317,2396,name_match_taluka,no
+Maharashtra,Nashik,Malegaon,20.5519,74.5298,27,317,2392,name_match_taluka,no
+Maharashtra,Pune,Gultekdi Market Yard,18.4908,73.8643,27,342,,district_name_match,yes
+Maharashtra,Pune,Baramati,18.1517,74.5772,27,342,2655,name_match_taluka,no
+Maharashtra,Pune,Junnar,19.2069,73.8753,27,342,2647,name_match_taluka,no
+Maharashtra,Ahmednagar,Rahata,19.6975,74.4842,27,,,,yes
+Maharashtra,Ahmednagar,Sangamner,19.5773,74.2144,27,,,,yes
+Maharashtra,Solapur,Pandharpur,17.6775,75.3262,27,340,2625,name_match_taluka,no
+Maharashtra,Solapur,Barshi,18.2333,75.6967,27,340,2619,name_match_taluka,no
+Maharashtra,Jalgaon,Raver,21.2464,76.0317,27,320,2413,name_match_taluka,no
+Maharashtra,Chhatrapati Sambhajinagar,Paithan,19.4811,75.3853,27,336,2589,name_match_taluka,no
+Maharashtra,Kolhapur,Kolhapur APMC,16.7050,74.2433,27,345,,district_name_match,yes
+Madhya Pradesh,Indore,Choithram Mandi Indore,22.6841,75.8341,23,251,,district_name_match,yes
+Madhya Pradesh,Indore,Sanwer,22.9772,75.8306,23,251,,district_name_match,yes
+Madhya Pradesh,Ujjain,Ujjain Krishi Mandi,23.1765,75.7885,23,245,,district_name_match,yes
+Madhya Pradesh,Dewas,Dewas Mandi,22.9676,76.0534,23,248,,district_name_match,yes
+Madhya Pradesh,Mandsaur,Mandsaur APMC,24.0722,75.0689,23,243,,district_name_match,yes
+Madhya Pradesh,Neemuch,Neemuch Krishi Mandi,24.4646,74.8722,23,242,,district_name_match,yes
+Uttar Pradesh,Agra,Fatehabad Mandi,27.0211,78.3094,09,151,,district_name_match,yes
+Uttar Pradesh,Aligarh,Aligarh Mandi,27.8974,78.0880,09,149,,district_name_match,yes
+Uttar Pradesh,Bareilly,Bareilly APMC,28.3670,79.4304,09,156,,district_name_match,yes
+Uttar Pradesh,Meerut,Meerut Mandi,28.9845,77.7064,09,144,,district_name_match,yes
+Uttar Pradesh,Varanasi,Pindra Mandi,25.5414,82.8364,09,108,,district_name_match,yes
+Punjab,Ludhiana,Khanna,30.7056,76.2206,03,201,1410,name_match_taluka,no
+Punjab,Ludhiana,Jagraon,30.7850,75.4789,03,201,1415,name_match_taluka,no
+Punjab,Amritsar,Bhagtanwala Amritsar,31.6140,74.8765,03,197,,district_name_match,yes
+Punjab,Bathinda,Rampura Phul,30.2741,75.2394,03,194,1378,name_match_taluka,no
+Punjab,Patiala,Nabha,30.3752,76.1528,03,189,1364,name_match_taluka,no
+Gujarat,Mehsana,Unjha APMC,23.8037,72.3924,24,,,,yes
+Gujarat,Rajkot,Rajkot APMC Bedi,22.3039,70.8022,24,301,,district_name_match,yes
+Gujarat,Rajkot,Gondal APMC,21.9619,70.7937,24,301,,district_name_match,yes
+Gujarat,Ahmedabad,Sanand APMC,22.9856,72.3813,24,,,,yes
+Gujarat,Amreli,Babra Mandi,21.8488,71.3031,24,304,,district_name_match,yes
+Rajasthan,Kota,Bhamashah Mandi Kota,25.1766,75.8569,08,361,,district_name_match,yes
+Rajasthan,Ganganagar,Sri Ganganagar Mandi,29.9038,73.8772,08,362,,district_name_match,yes
+Rajasthan,Alwar,Alwar APMC,27.5530,76.6346,08,366,,district_name_match,yes
+Rajasthan,Jaipur,Muhana Mandi Jaipur,26.7865,75.7667,08,372,,district_name_match,yes
+Karnataka,Dharwad,Hubballi APMC Amargol,15.3647,75.1240,29,389,,district_name_match,yes
+Karnataka,Belagavi,Bailhongal APMC,15.8208,74.8583,29,,,,yes
+Karnataka,Ballari,Siruguppa Mandi,15.6322,76.8967,29,,,,yes
+Haryana,Karnal,Karnal New Grain Market,29.6857,76.9905,06,439,,district_name_match,yes
+Haryana,Hisar,Hansi Mandi,29.1022,75.9592,06,445,,district_name_match,yes
+Haryana,Sirsa,Mandi Dabwali,30.1798,74.7214,06,444,,district_name_match,yes
+Andhra Pradesh,Guntur,Guntur Mirchi Yard,16.2942,80.4431,28,424,,district_name_match,yes
+Andhra Pradesh,Kurnool,Adoni Cotton Market,15.6322,77.2728,28,416,,district_name_match,yes
+Telangana,Warangal,Enumamula Agricultural Market,17.9689,79.5941,36,539,,district_name_match,yes
+Telangana,Nizamabad,Armoor Mandi,18.7906,78.2889,36,543,,district_name_match,yes
+Tamil Nadu,Coimbatore,Pollachi APMC,10.6609,77.0048,33,502,,district_name_match,yes
+Tamil Nadu,Madurai,Madurai Mattuthavani,9.9472,78.1561,33,514,,district_name_match,yes
+West Bengal,Purba Bardhaman,Burdwan Regulated Market,23.2324,87.8615,19,,,,yes
+West Bengal,Hooghly,Singur Potato Market,22.8125,88.2325,19,,,,yes
+Bihar,Muzaffarpur,Muzaffarpur Bazar Samiti,26.1209,85.3647,10,459,,district_name_match,yes
+Bihar,Patna,Mokama Mandi,25.3942,85.9189,10,472,,district_name_match,yes
+Chhattisgarh,Raipur,Pandri Mandi Raipur,21.2514,81.6296,22,567,,district_name_match,yes
+Chhattisgarh,Durg,Dhamdha Mandi,21.4489,81.3128,22,566,,district_name_match,yes
+Odisha,Bargarh,Bargarh Regulated Market,21.3340,83.6214,21,583,,district_name_match,yes
+Odisha,Sambalpur,Rairakhol Mandi,21.0667,84.3500,21,585,,district_name_match,yes
+Assam,Kamrup,Pamohi APMC Guwahati,26.1158,91.7086,18,647,,district_name_match,yes
+Assam,Nagaon,Kaliabor Mandi,26.5400,93.0200,18,652,,district_name_match,yes
+Kerala,Palakkad,Alathur Agro Market,10.6481,76.5447,32,658,,district_name_match,yes
+Kerala,Wayanad,Sulthan Bathery Spices Mandi,11.6667,76.2667,32,655,,district_name_match,yes
+Jharkhand,Ranchi,Ranchi Krishi Upaj Mandi,23.3441,85.3096,20,684,,district_name_match,yes
+Jharkhand,Hazaribagh,Barhi Krishi Mandi,24.3000,85.4167,20,,,,yes
+Himachal Pradesh,Shimla,Dhalli Fruit Market Shimla,31.1118,77.2023,02,690,,district_name_match,yes
+Himachal Pradesh,Solan,Solan Subzi Mandi,30.9084,77.0999,02,688,,district_name_match,yes
+Sikkim,Gangtok,Ranipool Organic Mandi,27.2889,88.5889,11,,,,yes
+Sikkim,Namchi,Jorethang Kisan Bazaar,27.1333,88.3167,11,,,,yes

@@ -1,0 +1,360 @@
+state,district,subdivision,taluka,headquarters_type
+Maharashtra,Sindhudurg,Kankavli,Kankavli,
+Maharashtra,Sindhudurg,Kankavli,Vaibhavwadi,
+Maharashtra,Sindhudurg,Kankavli,Devgad,
+Maharashtra,Sindhudurg,Kankavli,Malwan,
+Maharashtra,Sindhudurg,Sawantwadi,Sawantwadi,
+Maharashtra,Sindhudurg,Sawantwadi,Kudal,
+Maharashtra,Sindhudurg,Sawantwadi,Vengurla,
+Maharashtra,Sindhudurg,Sawantwadi,Dodamarg,
+Maharashtra,Ratnagiri,Ratnagiri,Ratnagiri,
+Maharashtra,Ratnagiri,Ratnagiri,Sangameshwar,
+Maharashtra,Ratnagiri,Ratnagiri,Lanja,
+Maharashtra,Ratnagiri,Ratnagiri,Rajapur,
+Maharashtra,Ratnagiri,Chiplun,Chiplun,
+Maharashtra,Ratnagiri,Chiplun,Guhagar,
+Maharashtra,Ratnagiri,Chiplun,Dapoli,
+Maharashtra,Ratnagiri,Chiplun,Mandangad,
+Maharashtra,Ratnagiri,Chiplun,Khed,
+Maharashtra,Raigad,Alibaug,Pen,
+Maharashtra,Raigad,Alibaug,Alibag,
+Maharashtra,Raigad,Alibaug,Murud,
+Maharashtra,Raigad,Panvel,Panvel,Municipal corporation
+Maharashtra,Raigad,Panvel,Uran,
+Maharashtra,Raigad,Karjat,Karjat,
+Maharashtra,Raigad,Karjat,Khalapur,
+Maharashtra,Raigad,Mangaon,Mangaon,
+Maharashtra,Raigad,Mangaon,Tala,
+Maharashtra,Raigad,Mangaon,Roha,
+Maharashtra,Raigad,Mangaon,Sudhagad-Pali,
+Maharashtra,Raigad,Mahad,Mahad,
+Maharashtra,Raigad,Mahad,Poladpur,
+Maharashtra,Raigad,Mahad,Shrivardhan,
+Maharashtra,Raigad,Mahad,Mhasala,
+Maharashtra,Mumbai Suburban,Bandra,Kurla,Municipal corporation
+Maharashtra,Mumbai Suburban,Bandra,Andheri,Municipal corporation
+Maharashtra,Mumbai Suburban,Bandra,Borivali,Municipal corporation
+Maharashtra,Thane,Thane,Thane,Municipal corporation
+Maharashtra,Thane,Thane,Kalyan,Municipal corporation
+Maharashtra,Thane,Thane,Murbad,
+Maharashtra,Thane,Bhiwandi,Shahapur,
+Maharashtra,Thane,Bhiwandi,Bhiwandi,Municipal corporation
+Maharashtra,Thane,Ulhasnagar,Ulhasnagar,Municipal corporation
+Maharashtra,Thane,Ulhasnagar,Ambarnath,
+Maharashtra,Palghar,Palghar,Palghar,
+Maharashtra,Palghar,Palghar,Vasai,Municipal corporation
+Maharashtra,Palghar,Palghar,Dahanu,
+Maharashtra,Palghar,Palghar,Talasari,
+Maharashtra,Palghar,Jawhar,Jawhar,
+Maharashtra,Palghar,Jawhar,Mokhada,
+Maharashtra,Palghar,Jawhar,Vada,
+Maharashtra,Palghar,Jawhar,Vikramgad,
+Maharashtra,Nashik,Nashik,Nashik,Municipal corporation
+Maharashtra,Nashik,Nashik,Igatpuri,
+Maharashtra,Nashik,Nashik,Dindori,
+Maharashtra,Nashik,Nashik,Peth,
+Maharashtra,Nashik,Nashik,Trimbakeshwar,
+Maharashtra,Nashik,Kalwan,Kalwan,
+Maharashtra,Nashik,Kalwan,Deola,
+Maharashtra,Nashik,Kalwan,Surgana,
+Maharashtra,Nashik,Kalwan,Baglan,Municipal council
+Maharashtra,Nashik,Malegaon,Malegaon,Municipal corporation
+Maharashtra,Nashik,Malegaon,Nandgaon,
+Maharashtra,Nashik,Malegaon,Chandwad,
+Maharashtra,Nashik,Niphad,Niphad,
+Maharashtra,Nashik,Niphad,Sinnar,
+Maharashtra,Nashik,Niphad,Yeola,
+Maharashtra,Nandurbar,Nandurbar,Nandurbar,Municipal corporation
+Maharashtra,Nandurbar,Nandurbar,Navapur,Municipal council
+Maharashtra,Nandurbar,Nandurbar,Shahada,Municipal council
+Maharashtra,Nandurbar,Talode,Talode,
+Maharashtra,Nandurbar,Talode,Akkalkuwa,
+Maharashtra,Nandurbar,Talode,Dhadgaon,
+Maharashtra,Dhule,Dhule,Dhule,Municipal corporation
+Maharashtra,Dhule,Dhule,Sakri,
+Maharashtra,Dhule,Sindkheda,Sindkheda,
+Maharashtra,Dhule,Sindkheda,Shirpur,Municipal council
+Maharashtra,Jalgaon,Jalgaon,Jalgaon,Municipal corporation
+Maharashtra,Jalgaon,Jalgaon,Jamner,
+Maharashtra,Jalgaon,Jalgaon,Erandol,
+Maharashtra,Jalgaon,Jalgaon,Dharangaon,
+Maharashtra,Jalgaon,Bhusawal,Bhusawal,
+Maharashtra,Jalgaon,Bhusawal,Raver,Municipal council
+Maharashtra,Jalgaon,Bhusawal,Muktainagar,Municipal council
+Maharashtra,Jalgaon,Bhusawal,Bodwad,Municipal council
+Maharashtra,Jalgaon,Bhusawal,Yawal,Municipal council
+Maharashtra,Jalgaon,Amalner,Amalner,Municipal council
+Maharashtra,Jalgaon,Amalner,Parola,Municipal council
+Maharashtra,Jalgaon,Amalner,Chopda,Municipal council
+Maharashtra,Jalgaon,Pachora,Pachora,Municipal council
+Maharashtra,Jalgaon,Pachora,Bhadgaon,Municipal council
+Maharashtra,Jalgaon,Pachora,Chalisgaon,Municipal council
+Maharashtra,Buldhana,Buldhana,Buldhana,Municipal council
+Maharashtra,Buldhana,Buldhana,Chikhli,Municipal council
+Maharashtra,Buldhana,Buldhana,Deulgaon Raja,Municipal council
+Maharashtra,Buldhana,Jalgaon Jamod,Jalgaon Jamod,Municipal council
+Maharashtra,Buldhana,Jalgaon Jamod,Sangrampur,Municipal council
+Maharashtra,Buldhana,Malkapur,Malkapur,Municipal council
+Maharashtra,Buldhana,Malkapur,Motala,Municipal council
+Maharashtra,Buldhana,Malkapur,Nandura,Municipal council
+Maharashtra,Buldhana,Khamgaon,Khamgaon,Municipal council
+Maharashtra,Buldhana,Khamgaon,Shegaon,Municipal council
+Maharashtra,Buldhana,Mehkar,Mehkar,Municipal council
+Maharashtra,Buldhana,Mehkar,Sindkhed Raja,Municipal council
+Maharashtra,Buldhana,Mehkar,Lonar,Municipal council
+Maharashtra,Akola,Akola,Akola,Municipal corporation
+Maharashtra,Akola,Akot,Akot,Municipal council
+Maharashtra,Akola,Akot,Telhara,Municipal council
+Maharashtra,Akola,Balapur,Balapur,Municipal council
+Maharashtra,Akola,Balapur,Patur,Municipal council
+Maharashtra,Akola,Murtajapur,Murtajapur,Municipal council
+Maharashtra,Akola,Murtajapur,Barshitakli,Municipal council
+Maharashtra,Washim,Washim,Washim,Municipal council
+Maharashtra,Washim,Washim,Malegaon,Municipal council
+Maharashtra,Washim,Washim,Risod,Municipal council
+Maharashtra,Washim,Mangrulpir,Mangrulpir,Municipal council
+Maharashtra,Washim,Mangrulpir,Karanja,Municipal council
+Maharashtra,Washim,Mangrulpir,Manora,Municipal council
+Maharashtra,Amravati,Amravati,Amravati,Municipal corporation
+Maharashtra,Amravati,Amravati,Bhatkuli,Municipal council
+Maharashtra,Amravati,Amravati,Nandgaon Khandeshwar,Municipal council
+Maharashtra,Amravati,Dharni,Dharni,Municipal council
+Maharashtra,Amravati,Dharni,Chikhaldara,Municipal council
+Maharashtra,Amravati,Achalpur,Achalpur,Municipal council
+Maharashtra,Amravati,Achalpur,Chandurbazar,Municipal council
+Maharashtra,Amravati,Morshi,Morshi,Municipal council
+Maharashtra,Amravati,Morshi,Warud,Municipal council
+Maharashtra,Amravati,Daryapur,Daryapur,Municipal council
+Maharashtra,Amravati,Daryapur,Anjangaon-Surji,Municipal council
+Maharashtra,Amravati,Chandur,Chandur,Municipal council
+Maharashtra,Amravati,Chandur,Dhamangaon,Municipal council
+Maharashtra,Amravati,Chandur,Tiosa,Municipal council
+Maharashtra,Wardha,Wardha,Wardha,Municipal council
+Maharashtra,Wardha,Wardha,Deoli,Municipal council
+Maharashtra,Wardha,Wardha,Seloo,Municipal council
+Maharashtra,Wardha,Arvi,Arvi,Municipal council
+Maharashtra,Wardha,Arvi,Ashti,Municipal council
+Maharashtra,Wardha,Arvi,Karanja,Municipal council
+Maharashtra,Wardha,Hinganghat,Hinganghat,Municipal council
+Maharashtra,Wardha,Hinganghat,Samudrapur,Municipal council
+Maharashtra,Nagpur,Nagpur,Nagpur Urban,Municipal corporation
+Maharashtra,Nagpur,Nagpur,Nagpur Rural,Municipal corporation
+Maharashtra,Nagpur,Nagpur,Kamptee,
+Maharashtra,Nagpur,Nagpur,Hingna,Municipal council
+Maharashtra,Nagpur,Katol,Katol,
+Maharashtra,Nagpur,Katol,Narkhed,Municipal council
+Maharashtra,Nagpur,Savner,Savner,Municipal council
+Maharashtra,Nagpur,Savner,Kalameshwar,Municipal council
+Maharashtra,Nagpur,Ramtek,Ramtek,Municipal council
+Maharashtra,Nagpur,Ramtek,Mouda,Municipal council
+Maharashtra,Nagpur,Ramtek,Parseoni,Municipal council
+Maharashtra,Nagpur,Umred,Umred,Municipal council
+Maharashtra,Nagpur,Umred,Kuhi,Municipal council
+Maharashtra,Nagpur,Umred,Bhiwapur,Municipal council
+Maharashtra,Bhandara,Bhandara,Bhandara,Municipal council
+Maharashtra,Bhandara,Bhandara,Tumsar,Municipal council
+Maharashtra,Bhandara,Bhandara,Pauni,Municipal council
+Maharashtra,Bhandara,Bhandara,Mohadi,Municipal council
+Maharashtra,Bhandara,Sakoli,Sakoli,Municipal council
+Maharashtra,Bhandara,Sakoli,Lakhani,Municipal council
+Maharashtra,Bhandara,Sakoli,Lakhandur,Municipal council
+Maharashtra,Gondia,Gondia,Gondia,Municipal council
+Maharashtra,Gondia,Gondia,Goregaon,Municipal council
+Maharashtra,Gondia,Gondia,Salekasa,Municipal council
+Maharashtra,Gondia,Tiroda,Tiroda,Municipal council
+Maharashtra,Gondia,Deori,Amgaon,Municipal council
+Maharashtra,Gondia,Deori,Deori,Municipal council
+Maharashtra,Gondia,Arjuni Morgaon,Arjuni-Morgaon,Municipal council
+Maharashtra,Gondia,Arjuni Morgaon,Sadak-Arjuni,Municipal council
+Maharashtra,Gadchiroli,Gadchiroli,Gadchiroli,Municipal council
+Maharashtra,Gadchiroli,Gadchiroli,Dhanora,
+Maharashtra,Gadchiroli,Gadchiroli,Chamorshi,
+Maharashtra,Gadchiroli,Gadchiroli,Mulchera,
+Maharashtra,Gadchiroli,Desaiganj,Desaiganj,Municipal council
+Maharashtra,Gadchiroli,Desaiganj,Armori,Municipal council
+Maharashtra,Gadchiroli,Desaiganj,Kurkheda,
+Maharashtra,Gadchiroli,Desaiganj,Korchi,
+Maharashtra,Gadchiroli,Aheri,Aheri,
+Maharashtra,Gadchiroli,Aheri,Etapalli,
+Maharashtra,Gadchiroli,Aheri,Bhamragad,
+Maharashtra,Gadchiroli,Aheri,Sironcha,
+Maharashtra,Chandrapur,Chandrapur,Chandrapur,Municipal corporation
+Maharashtra,Chandrapur,Chandrapur,Saoli,Municipal council
+Maharashtra,Chandrapur,Chandrapur,Mul,Municipal council
+Maharashtra,Chandrapur,Chandrapur,Ballarpur,Municipal council
+Maharashtra,Chandrapur,Chandrapur,Pombhurna,Municipal council
+Maharashtra,Chandrapur,Chandrapur,Gondpimpri,Municipal council
+Maharashtra,Chandrapur,Warora,Warora,Municipal council
+Maharashtra,Chandrapur,Warora,Chimur,Municipal council
+Maharashtra,Chandrapur,Warora,Bhadravati,Municipal council
+Maharashtra,Chandrapur,Bramhapuri,Bramhapuri,Municipal council
+Maharashtra,Chandrapur,Bramhapuri,Nagbhid,Municipal council
+Maharashtra,Chandrapur,Bramhapuri,Sindewahi,Municipal council
+Maharashtra,Chandrapur,Rajura,Rajura,Municipal council
+Maharashtra,Chandrapur,Rajura,Korpana,Municipal council
+Maharashtra,Chandrapur,Rajura,Jiwati,Municipal council
+Maharashtra,Yavatmal,Yavatmal,Yavatmal,Municipal council
+Maharashtra,Yavatmal,Yavatmal,Arni,Municipal council
+Maharashtra,Yavatmal,Yavatmal,Babhulgaon,Municipal council
+Maharashtra,Yavatmal,Yavatmal,Kalamb,Municipal council
+Maharashtra,Yavatmal,Darwha,Darwha,Municipal council
+Maharashtra,Yavatmal,Darwha,Digras,Municipal council
+Maharashtra,Yavatmal,Darwha,Ner,Municipal council
+Maharashtra,Yavatmal,Pusad,Pusad,Municipal council
+Maharashtra,Yavatmal,Pusad,Umarkhed,Municipal council
+Maharashtra,Yavatmal,Pusad,Mahagaon,Municipal council
+Maharashtra,Yavatmal,Kelapur,Kelapur,Municipal council
+Maharashtra,Yavatmal,Kelapur,Ralegaon,Municipal council
+Maharashtra,Yavatmal,Kelapur,Ghatanji,Municipal council
+Maharashtra,Yavatmal,Wani,Wani,Municipal council
+Maharashtra,Yavatmal,Wani,Maregaon,Municipal council
+Maharashtra,Yavatmal,Wani,Zari Jamani,Municipal council
+Maharashtra,Nanded,Nanded,Nanded,Municipal corporation
+Maharashtra,Nanded,Nanded,Ardhapur,Municipal council
+Maharashtra,Nanded,Nanded,Mudkhed,Municipal council
+Maharashtra,Nanded,Nanded,Bhokar,Municipal council
+Maharashtra,Nanded,Nanded,Umri,Municipal council
+Maharashtra,Nanded,Nanded,Loha,Municipal council
+Maharashtra,Nanded,Nanded,Kandhar,Municipal council
+Maharashtra,Nanded,Kinwat,Kinwat,Municipal council
+Maharashtra,Nanded,Kinwat,Himayatnagar,Municipal council
+Maharashtra,Nanded,Kinwat,Hadgaon,Municipal council
+Maharashtra,Nanded,Kinwat,Mahur,Municipal council
+Maharashtra,Nanded,Deglur,Deglur,Municipal council
+Maharashtra,Nanded,Deglur,Mukhed,Municipal council
+Maharashtra,Nanded,Deglur,Dharmabad,Municipal council
+Maharashtra,Nanded,Deglur,Biloli,Municipal council
+Maharashtra,Nanded,Deglur,Naigaon,Municipal council
+Maharashtra,Hingoli,Hingoli,Hingoli,Municipal council
+Maharashtra,Hingoli,Hingoli,Sengaon,Municipal council
+Maharashtra,Hingoli,Hingoli,Kalamnuri,Municipal council
+Maharashtra,Hingoli,Basmath,Basmath,Municipal council
+Maharashtra,Hingoli,Basmath,Aundha Nagnath,Municipal council
+Maharashtra,Parbhani,Parbhani,Parbhani,Municipal corporation
+Maharashtra,Parbhani,Parbhani,Sonpeth,Municipal council
+Maharashtra,Parbhani,Parbhani,Gangakhed,Municipal council
+Maharashtra,Parbhani,Parbhani,Palam,Municipal council
+Maharashtra,Parbhani,Parbhani,Purna,Municipal council
+Maharashtra,Parbhani,Sailu,Sailu,Municipal council
+Maharashtra,Parbhani,Sailu,Jintur,Municipal council
+Maharashtra,Parbhani,Sailu,Manwath,Municipal council
+Maharashtra,Parbhani,Sailu,Pathri,Municipal council
+Maharashtra,Jalna,Jalna,Jalna,Municipal corporation
+Maharashtra,Jalna,Jalna,Bhokardan,Municipal council
+Maharashtra,Jalna,Jalna,Jafrabad,Municipal council
+Maharashtra,Jalna,Jalna,Badnapur,Municipal council
+Maharashtra,Jalna,Partur,Ambad,Municipal council
+Maharashtra,Jalna,Partur,Ghansawangi,Municipal council
+Maharashtra,Jalna,Partur,Partur,Municipal council
+Maharashtra,Jalna,Partur,Mantha,Municipal council
+Maharashtra,Chhatrapati Sambhajinagar,Aurangabad,Aurangabad,Municipal corporation
+Maharashtra,Chhatrapati Sambhajinagar,Aurangabad,Kannad,Municipal council
+Maharashtra,Chhatrapati Sambhajinagar,Aurangabad,Soegaon,Municipal council
+Maharashtra,Chhatrapati Sambhajinagar,Sillod,Sillod,Municipal council
+Maharashtra,Chhatrapati Sambhajinagar,Sillod,Phulambri,Municipal council
+Maharashtra,Chhatrapati Sambhajinagar,Sillod,Khuldabad,Municipal council
+Maharashtra,Chhatrapati Sambhajinagar,Vaijapur,Vaijapur,Municipal council
+Maharashtra,Chhatrapati Sambhajinagar,Vaijapur,Gangapur,Municipal council
+Maharashtra,Chhatrapati Sambhajinagar,Vaijapur,Paithan,Municipal council
+Maharashtra,Beed,Beed,Beed,Municipal council
+Maharashtra,Beed,Beed,Georai,Municipal council
+Maharashtra,Beed,Patoda,Patoda,Municipal council
+Maharashtra,Beed,Patoda,Shirur-Kasar,Municipal council
+Maharashtra,Beed,Patoda,Ashti,Municipal council
+Maharashtra,Beed,Ambejogai,Majalgaon,Municipal council
+Maharashtra,Beed,Ambejogai,Wadwani,Municipal council
+Maharashtra,Beed,Ambejogai,Kaij,Municipal council
+Maharashtra,Beed,Ambejogai,Dharur,Municipal council
+Maharashtra,Beed,Ambejogai,Parli,Municipal council
+Maharashtra,Beed,Ambejogai,Ambajogai,Municipal council
+Maharashtra,Latur,Latur,Latur,Municipal corporation
+Maharashtra,Latur,Ausa-Renapur,Renapur,Gram panchayat
+Maharashtra,Latur,Ausa-Renapur,Ausa,Municipal council
+Maharashtra,Latur,Ahmedpur,Ahmedpur,Municipal council
+Maharashtra,Latur,Ahmedpur,Jalkot,Gram panchayat
+Maharashtra,Latur,Ahmedpur,Chakur,Gram panchayat
+Maharashtra,Latur,Ahmedpur,Shirur Anantpal,Gram panchayat
+Maharashtra,Latur,Nilanga,Nilanga,Municipal council
+Maharashtra,Latur,Nilanga,Deoni,Gram panchayat
+Maharashtra,Latur,Udgir,Udgir,Municipal council
+Maharashtra,Dharashiv,Osmanabad,Osmanabad,Municipal council
+Maharashtra,Dharashiv,Osmanabad,Tuljapur,Municipal council
+Maharashtra,Dharashiv,Bhum,Bhum,Municipal council
+Maharashtra,Dharashiv,Bhum,Paranda,Municipal council
+Maharashtra,Dharashiv,Kalamb,Washi,Municipal council
+Maharashtra,Dharashiv,Kalamb,Kalamb,Municipal council
+Maharashtra,Dharashiv,Umarga,Lohara,Municipal council
+Maharashtra,Dharashiv,Umarga,Umarga,Municipal council
+Maharashtra,Solapur,Solapur North,Barshi,Municipal council
+Maharashtra,Solapur,Solapur North,Solapur North,Municipal corporation
+Maharashtra,Solapur,Solapur South,Solapur South,Municipal corporation
+Maharashtra,Solapur,Solapur South,Akkalkot,Municipal council
+Maharashtra,Solapur,Kurduwadi,Madha,Municipal council
+Maharashtra,Solapur,Kurduwadi,Karmala,Municipal council
+Maharashtra,Solapur,Pandharpur,Pandharpur,Municipal council
+Maharashtra,Solapur,Pandharpur,Mohol,Municipal council
+Maharashtra,Solapur,Malshiras,Malshiras,Municipal council
+Maharashtra,Solapur,Mangalvedhe,Sangole,Municipal council
+Maharashtra,Solapur,Mangalvedhe,Mangalvedhe,Municipal council
+Maharashtra,Ahilyanagar,Ahmednagar,Nagar,Municipal corporation
+Maharashtra,Ahilyanagar,Ahmednagar,Shevgaon,Municipal council
+Maharashtra,Ahilyanagar,Ahmednagar,Pathardi,Municipal council
+Maharashtra,Ahilyanagar,Ahmednagar,Parner,Municipal council
+Maharashtra,Ahilyanagar,Sangamner,Sangamner,Municipal council
+Maharashtra,Ahilyanagar,Sangamner,Kopargaon,Municipal council
+Maharashtra,Ahilyanagar,Sangamner,Akole,Municipal council
+Maharashtra,Ahilyanagar,Shrirampur,Shrirampur,Municipal council
+Maharashtra,Ahilyanagar,Shrirampur,Nevasa,Municipal council
+Maharashtra,Ahilyanagar,Shrirampur,Rahata,Municipal council
+Maharashtra,Ahilyanagar,Shrirampur,Rahuri,Municipal council
+Maharashtra,Ahilyanagar,Karjat,Shrigonda,Municipal council
+Maharashtra,Ahilyanagar,Karjat,Karjat,Municipal council
+Maharashtra,Ahilyanagar,Karjat,Jamkhed,Municipal council
+Maharashtra,Pune,Haveli,Pune City,Municipal corporation
+Maharashtra,Pune,Haveli,Haveli,Municipal council
+Maharashtra,Pune,Khed,Khed,Municipal council
+Maharashtra,Pune,Khed,Junnar,Municipal council
+Maharashtra,Pune,Khed,Ambegaon,Municipal council
+Maharashtra,Pune,Maval,Maval,Municipal council
+Maharashtra,Pune,Maval,Mulshi,Municipal council
+Maharashtra,Pune,Maval,Shirur,Municipal council
+Maharashtra,Pune,Bhor,Purandhar (Saswad),Municipal council
+Maharashtra,Pune,Bhor,Velhe,Municipal council
+Maharashtra,Pune,Bhor,Bhor,Municipal council
+Maharashtra,Pune,Baramati,Baramati,Municipal council
+Maharashtra,Pune,Baramati,Indapur,Municipal council
+Maharashtra,Pune,Baramati,Daund,Municipal council
+Maharashtra,Satara,Satara,Satara,Municipal council
+Maharashtra,Satara,Satara,Jaoli,Municipal council
+Maharashtra,Satara,Satara,Koregaon,Municipal council
+Maharashtra,Satara,Wai,Wai,Municipal council
+Maharashtra,Satara,Wai,Mahabaleshwar,Municipal council
+Maharashtra,Satara,Wai,Khandala,Municipal council
+Maharashtra,Satara,Phaltan,Phaltan,Municipal council
+Maharashtra,Satara,Phaltan,Maan,Municipal council
+Maharashtra,Satara,Phaltan,Khatav,Municipal council
+Maharashtra,Satara,Karad,Patan,Municipal council
+Maharashtra,Satara,Karad,Karad,Municipal council
+Maharashtra,Sangli,Miraj,Miraj,Municipal corporation
+Maharashtra,Sangli,Miraj,Kavathemahankal,Town council
+Maharashtra,Sangli,Miraj,Tasgaon,Town council
+Maharashtra,Sangli,Miraj,Jat,Municipal council
+Maharashtra,Sangli,Walwa,Walwa,Municipal council
+Maharashtra,Sangli,Walwa,Shirala,Town council
+Maharashtra,Sangli,Khanapur,Khanapur (Vita),Municipal council
+Maharashtra,Sangli,Khanapur,Atpadi,Town council
+Maharashtra,Sangli,Khanapur,Palus,Town council
+Maharashtra,Sangli,Khanapur,Kadegaon,Town council
+Maharashtra,Kolhapur,Karvir,Karvir,Municipal corporation
+Maharashtra,Kolhapur,Karvir,Panhala,Municipal council
+Maharashtra,Kolhapur,Karvir,Shahuwadi,Municipal council
+Maharashtra,Kolhapur,Karvir,Kagal,Municipal council
+Maharashtra,Kolhapur,Ichalkaranji,Hatkanangale,Municipal council
+Maharashtra,Kolhapur,Ichalkaranji,Shirol,Municipal council
+Maharashtra,Kolhapur,Radhanagari,Radhanagari,Town council
+Maharashtra,Kolhapur,Radhanagari,Gaganbawada,Town council
+Maharashtra,Kolhapur,Radhanagari,Bhudargad,Town council
+Maharashtra,Kolhapur,Gadhinglaj,Gadhinglaj,Municipal council
+Maharashtra,Kolhapur,Gadhinglaj,Chandgad,Town council
+Maharashtra,Kolhapur,Gadhinglaj,Ajra,Town council
+Maharashtra,Mumbai City,Mumbai City,Mumbai City,Municipal corporation
